@@ -1,0 +1,13 @@
+Rok stanu danych 2024
+Pochodzenie danych - z BDL, program "Zanocuj w lesie"
+Data wytworzenia danych 2024-03
+Dane dostêpne s¹ formacie SHP i KML
+Dane w uk³adzie PUWG92
+
+Opis poszczególnych pól:
+
+Obszary_Zanocuj_w_lesie_-_03_2024	
+NAZWA POLA			OPIS
+rdlp				nazwa regionalnej Dyrekcji Las Pañstwowych
+nadl				nazwa nadleœnictwa
+link				link do strony internetowej nadleœnictwa z informacjami o obszarach "Zanocuj w lesie" i regulaminem
