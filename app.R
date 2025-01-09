@@ -32,8 +32,7 @@ harvest_data <- tibble(
             14711.3, 147.1, 2203.6, 1084.3, 4589.7)
 )
 
-# Wczytywanie danych z arkusza Google (dane dotyczące gatunków drzew)
-# Załóżmy, że plik CSV został pobrany i zapisany lokalnie jako "gatunki.csv"
+# Wczytywanie danych dotyczących gatunków drzew
 gatunki_drzew <- read_csv("C://Users//User//OneDrive//Pulpit//LP_App//gatunki.csv", locale = locale(encoding = "UTF-8"))
 
 # Tworzenie aplikacji Shiny
